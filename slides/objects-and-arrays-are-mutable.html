@@ -1,0 +1,15 @@
+<h2>Objects and Arrays are Mutable</h2>
+
+<pre><code class="lang-javascript" data-trim>
+var myself = { name: 'Tom' };
+var someoneElse = myself;
+myself.name = 'Thomas';
+// both myself & someoneElse are now equal to { name: 'Thomas' }
+
+// change arrays in place.
+
+var numbers = [3, 2, 1];
+var sorted = numbers.sort();
+// both numbers & sorted are equal to [1, 2, 3]
+// because calling .sort() sorts the array in-place
+</code></pre>

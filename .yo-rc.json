@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Simple Undo in Javascript with Immutable.js",
+    "packageVersion": "0.1.0",
+    "revealTheme": "solarized",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "veggiemonk",
+    "githubRepository": "slide-immutable-js"
+  }
+}
