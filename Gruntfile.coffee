@@ -91,7 +91,7 @@ module.exports = (grunt) ->
                 message: 'Built from %sourceCommit% on branch %sourceBranch%'
             pages:
                 options:
-                    remote: 'git@github.com:veggiemonk/slide-immutable-js.git'
+                    remote: 'git@github.com:veggiemonk/slides_gitlab_presentation.git'
                     branch: 'gh-pages'
 
 
