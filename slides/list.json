@@ -1,17 +1,10 @@
 [
     "index.md",
     "introduction.html",
-    "objects-and-arrays-are-mutable.html",
-    [
-        "immutable-js.html",
-        "js-object-immutable.html",
-        "cloning-vs-immutable.html"
-    ],
-    "functions-create-new-versions.html",
-    "history-list-with-index.html",
-    "operations-append-new-versions-to-history.html",
-    "historyindex-undo-and-redo.html",
-    "all-together.html",
-    "operations-with-name-actions.html",
+    "brainstorm.html",
+    "control-flow.html",
+    "what-to-do.html",
+    "what-to-do-2.html",
+    "what-to-do-next.html",
     "thank-you.html"
 ]

@@ -1,9 +1,11 @@
 
-# Simple Undo with Immutable.js
+<img src="./resources/GitLab_logo.png" width="400">
+
+## Developer Workflow with GIT
 
 
-#### source:
-http://www.macwright.org/2015/05/18/practical-undo.html
-Original Article by Tom MacWright
+
+
+
 
 
