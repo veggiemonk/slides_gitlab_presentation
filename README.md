@@ -1,3 +1,4 @@
-# slide-immutable-js
-Presentation based on this article: http://www.macwright.org/2015/05/18/practical-undo.html
+# slide-Gitlab
+
+Presentation for our team to use the pull-request model (merge-request in GitLab)
 
